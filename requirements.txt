@@ -1,0 +1,9 @@
+# Required
+requests
+beautifulsoup4
+
+# Optional (each degrades gracefully if missing)
+pypdf          # read PDF sources
+trafilatura    # better main-content extraction from web pages
+lxml           # faster HTML parsing
+ddgs           # free search backends (used when no SERPER_API_KEY is set)

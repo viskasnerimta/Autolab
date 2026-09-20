@@ -1,0 +1,9 @@
+# One research area per line. Lines starting with '#' are ignored.
+# Use with:  export AUTOLAB_AREAS_FILE=./my_areas.txt
+# The planner picks a concrete question inside one of these areas each cycle.
+
+organic chemistry reaction mechanisms
+materials science and batteries
+epidemiology and public health data
+history of computing
+software failure analysis and postmortems

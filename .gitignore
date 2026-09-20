@@ -1,0 +1,20 @@
+# Generated data and logs
+autolab_data/
+*.jsonl
+*.lock
+logs/
+
+# Personal / local files
+.env
+.env.*
+memory*.md
+memory*.txt
+memory*.jsonl
+my_areas.txt
+*.gguf
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
